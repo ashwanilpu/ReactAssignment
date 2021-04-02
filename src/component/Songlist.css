@@ -1,0 +1,17 @@
+.card {
+  width: 300px;
+  margin: 1rem;
+  background-color: rgb(48, 48, 48);
+  border-radius: 3px;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  position: relative;
+}
+.card_bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #eee;
+  padding: 0.5rem 1rem 1rem;
+  letter-spacing: 0.5px;
+}
